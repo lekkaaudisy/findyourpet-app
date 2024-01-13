@@ -119,7 +119,7 @@
                         </a>
                       </div>
                       <div class="py-4">
-                        <a href="/logout" class="flex flex-row">
+                        <a href="/login" class="flex flex-row">
                           <div class="flex mr-6">
                             <div class="size-11 flex justify-center items-center">
                               <div class="size-7 ">

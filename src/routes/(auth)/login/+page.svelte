@@ -49,12 +49,12 @@
                     </div>  
                 </div>
                 <div class="flex my-2 w-full items-center">
-                    <Button class="w-full rounded-full bg-[#009068]">
+                    <Button class="w-full rounded-full bg-[#009068]" href="/">
                         <p class="font-bold">Log in</p>
                     </Button>
                 </div>
                 <div class="flex my-2 w-full items-center">
-                    <Button class="w-full rounded-full" variant="outline">
+                    <Button class="w-full rounded-full" variant="outline" href="/">
                         <p class="font-bold">Forgot password?</p>
                     </Button>
                 </div>

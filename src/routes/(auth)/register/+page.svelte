@@ -50,7 +50,7 @@
                     </div>  
                 </div>
                 <div class="flex my-2 w-full items-center">
-                    <Button class="w-full rounded-full bg-[#009068]">
+                    <Button class="w-full rounded-full bg-[#009068]" href="/">
                         <p class="font-bold">Create account</p>
                     </Button>
                 </div>
