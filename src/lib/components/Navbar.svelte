@@ -14,8 +14,9 @@
     import '../../app.css';
     import logo from "../../images/letter-f.png";
 
-  const side = "left" as const;
+    const side = "left" as const;
 </script>
+
 <div class="fixed h-[3.5rem] max-h-[16vh] flex box-border w-[100%] bottom-0">
     <nav class="h-full border-y border-solid flex flex-row w-[100%] p-0 bg-white cursor-pointer">
         <a href="/" class="flex basis-1/4 justify-center items-center">
